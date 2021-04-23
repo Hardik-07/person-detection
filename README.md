@@ -8,6 +8,7 @@ The project is based on the deep learning technology. In the project he has impl
   - Test Image 
   - Test video file
     
+##Steps
     
   - Open ``yolo.ipynb`` in Jupyter notebook or Google colab
   - Upload the test video and image file in darnet/data folder for testing
